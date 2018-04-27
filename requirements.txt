@@ -1,0 +1,4 @@
+SQLAlchemy==1.2.7
+alembic==0.9.9
+# In order to connect mysql in this demo, change according to you target database and platform
+MySQL-python==1.2.5
